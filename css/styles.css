@@ -1,0 +1,9 @@
+.container-fluid{
+  padding: 10%;
+  font-family:"Helvetica Neue", "Arial", sans-serif;
+}
+.aboutMe{
+  text-align: center;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  color: gray-dark;
+}
